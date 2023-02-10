@@ -1,0 +1,4 @@
+- source: Recommendation.ipynb
+  quarto-pub:
+    - id: e0f11e36-1fd4-4a62-89cc-d31578a41b68
+      url: 'https://quartopub.com/sites/dylanchen/recommendation'
